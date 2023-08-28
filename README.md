@@ -4,7 +4,7 @@
 <h3 align="center">A passionate android developer and full stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvick1603&label=Profile%20views&color=0e75b6&style=flat" alt="marvick1603" /> </p>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvick1603" alt="marvick1603" /></a> </p>
+
 
 - 🌱 I’m currently learning **Spring boot in advance and practicing Data Structures and Algorithm**
 
