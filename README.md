@@ -1,6 +1,7 @@
+[![MasterHead](https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif
+)]
 <h1 align="center">Hi 👋, I'm Jinay Gomeshkumar Patel</h1>
 <h3 align="center">A passionate android developer and full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvick1603&label=Profile%20views&color=0e75b6&style=flat" alt="marvick1603" /> </p>
 
 //<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvick1603" alt="marvick1603" /></a> </p>
